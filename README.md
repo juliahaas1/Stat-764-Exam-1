@@ -4,3 +4,6 @@
 #### 3. Is Amtrak becoming more or less reliable as a method of transportation?
 #### 4. How has ridership changed across different states in different years? How is Amtrak meeting (or failing to meet) this demand with regular daily trips? 
 ### The final submission included an ipynb file of jupyter notebook code, and a 3 page maximum report of findings and visualizations to an audience that has limited statistical knowledge. 
+
+
+##### *independent project*
